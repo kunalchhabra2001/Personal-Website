@@ -16,8 +16,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: 'VipulChhabra',
-        short_name: 'VipulChhabra',
+        name: 'KunalChhabra',
+        short_name: 'KunalChhabra',
         start_url: '/',
         background_color: config.darkNavyColor,
         theme_color: config.navyColor,

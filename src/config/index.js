@@ -1,30 +1,26 @@
 module.exports = {
-  siteTitle: 'Vipul Chhabra',
+  siteTitle: 'Kunal Chhabra',
   siteDescription:
-    'Vipul chhbra is a CSD sophomore',
+    'Kunal chhbra is a CSD sophomore',
   siteKeywords:
-    'Vipul chhbra is a CSD sophomore',
+    'Kunal chhbra is a CSD sophomore',
   siteUrl: 'https://github.com/vipchhabra99/',
   siteLanguage: 'en_US',
 
   googleVerification: '',
 
-  name: 'Vipul Chhabra',
+  name: 'Kunal Chhabra',
   location: 'Ambala, India',
-  email: 'vipul.chhabra@research.iiit.ac.in',
-  github: 'https://github.com/vipchhabra99/',
+  email: 'Kunalchhabrapro99@gmail.com',
+  github: 'https://github.com/kunalchhabra2001/',
   socialMedia: [
     {
       name: 'Github',
-      url: 'https://github.com/vipchhabra99/',
+      url: 'https://github.com/kunalchhabra2001/',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/vipul-chhabra',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/vipchhabra/',
+      url: 'https://www.linkedin.com/in/Kunal-chhabra',
     },
   ],
 

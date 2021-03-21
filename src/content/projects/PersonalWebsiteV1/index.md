@@ -2,7 +2,7 @@
 date: '2019-08-01'
 title: 'Personal Website'
 image: ''
-github: 'https://github.com/vipulchhabra99/Personal-Website'
+github: 'https://github.com/kunalchhabra2001/Personal-Website'
 external: ''
 tech:
   - HTML

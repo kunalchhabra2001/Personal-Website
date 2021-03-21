@@ -13,7 +13,7 @@ skills:
   - MongoDB
 ---
 
-Hello, I'm Vipul Chhabra , Computer Science Undergraduate at IIIT Hyderabad. Currently, pursuing my research in the field of Data Science at (DSAC Lab IIIT-H).
+Hello, I'm Kunal Chhabra , Computer Science Undergraduate at IIIT Hyderabad. Currently, pursuing my research in the field of Data Science at (DSAC Lab IIIT-H).
 
 I'm a person with variety of interests but still to find my passion.
 

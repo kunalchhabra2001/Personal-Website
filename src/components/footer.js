@@ -102,7 +102,7 @@ const Footer = ({ githubInfo }) => (
         href="https://github.com/vipchhabra/"
         target="_blank"
         rel="nofollow noopener noreferrer">
-        <div>Designed &amp; Built by Vipul Chhabra</div>
+        <div>Designed &amp; Built by Kunal Chhabra</div>
 
       </GithubLink>
     </Copy>
