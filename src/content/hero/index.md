@@ -5,4 +5,4 @@ subtitle: 'I build things for the web.'
 contactText: 'Get In Touch'
 ---
 
-Hello, I'm Kunal Chhabra , Computer Science Undergraduate at IIIT Hyderabad. Currently, pursuing my research in the field of Data Science at (DSAC Lab IIIT-H).
+Hello, I'm Kunal Chhabra , Electrical Engineering at IIT Bombay. Currently, pursuing my minor in the field of Data Science.
